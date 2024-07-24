@@ -9,7 +9,7 @@ const title = document.querySelector('#title');
 const cover = document.querySelector('#cover');
 
 // array para as músicas
-const songs = ['ser humano ou um anjo', 'music2', 'music3', 'music4', 'music5', 'music6',
+const songs = ['ser humano ou um anjo', 'seu astral', 'music3', 'music4', 'music5', 'music6',
     'music7', 'music8', 'music9', 'music10'
 ]
 
